@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Truth Table Quiz</string>
+    <string name="total_correct_answers">Total correct answers: %1$d</string>
+    <string name="true_label">T</string>
+    <string name="false_label">F</string>
+    <string name="check_answer">CHECK ANSWER</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="reset">RESET</string>
+
+</resources>

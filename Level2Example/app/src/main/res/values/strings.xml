@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roll dice and calculate total</string>
+
+    <string name="instruction">Roll dice and calculate the new total of dice values rolled.</string>
+    <string name="total">Total dice rolls value: %s after %d rolls of the dice.</string>
+    <string name="next_roll">Next roll</string>
+</resources>

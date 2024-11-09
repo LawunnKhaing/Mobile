@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cats and dogs</string>
+    <string name="cats">Cats</string>
+    <string name="dogs">Dogs</string>
+    <string name="loading_text">Loading..</string>
+    <string name="empty_pet_placeholder_cat">Click below to get a new cat</string>
+    <string name="something_wrong_state">Something went wrong.</string>
+    <string name="get_new_cat">Get a new cat</string>
+    <string name="date_time">Date and time picture was taken:</string>
+    <string name="empty_pet_placeholder_dog">Click below to get a new dog</string>
+    <string name="unknown_breed">Could not retrieve breed!</string>
+    <string name="dog_breed">Dog breed and image</string>
+    <string name="get_new_dog">Get a new dog</string>
+    <string name="cats_screen_header">Cat image and image capture date</string>
+    <string name="top_bar_title">Cats and Dogs</string>
+    <string name="bottom_nav_cats">Cats</string>
+    <string name="bottom_nav_dogs">Dogs</string>
+</resources>

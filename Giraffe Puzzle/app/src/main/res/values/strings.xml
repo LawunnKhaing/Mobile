@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Level 1 Example</string>
+    <string name="answer_label">Answer:</string>
+    <string name="animal_question">What animal is this?</string>
+    <string name="giraffe_upper">GIRAFFE</string>
+    <string name="correct">\u0020is correct</string>
+    <string name="incorrect">\u0020is incorrect, must be \"giraffe\"</string>
+</resources>

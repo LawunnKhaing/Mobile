@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Numbers</string>
+
+    <string name="empty_number_placeholder">Click to get a number fact!</string>
+    <string name="get_new_number">Get new number</string>
+    <string name="save">Save</string>
+    <string name="loading_text">Loading number ..</string>
+    <string name="something_wrong_state">Something went wrong</string>
+    <string name="history">HISTORY</string>
+    <string name="success">Success</string>
+</resources>
